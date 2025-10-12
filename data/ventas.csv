@@ -1,0 +1,8 @@
+﻿id_venta,sucursal,producto,categoria,precio,cantidad,fecha,cliente_id
+1,CDMX,TV 50 pulgadas,Electronica,12000,1,15/01/2023,1001
+2,Guadalajara,Licuadura,Electrodomestico,1500,2,10/02/2023,1002
+3,CDMX,Laptop,Computo,18000,1,17/02/2023,1003
+4,Monterrey,Plancha,Electrodomestico,800,1,02/03/2023,1004
+5,Guadalajara,Refri 16ft,Electrodomestico,8500,1,20/03/2023,1005
+6,CDMX,Tablet,Computo,7000,1,10/04/2023,1006
+7,Monterrey,TV 32 pulgadas,Electronica,6000,2,22/04/2023,1007
